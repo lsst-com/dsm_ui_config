@@ -2,3 +2,4 @@ general:
   version: 1.0
   pixel_scale: 0.85
   telemetry_dir: /dsm/telemetry
+  remove_telemetry_dir: False
