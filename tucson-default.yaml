@@ -1,0 +1,14 @@
+data:
+  buffer:
+    pixelScale: 0.85
+general:
+  autorun: false
+  configVersion: "1.0"
+  saveBufferData: false
+  site: "Tucson Lab"
+  telemetry:
+    cleanup:
+      directory: false
+      files: true
+    directory: /dsm/telemetry
+  timezone: UTC
