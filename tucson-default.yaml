@@ -3,7 +3,7 @@ data:
     pixelScale: 0.85
 general:
   autorun: false
-  configVersion: "1.0"
+  configVersion: "1.0.0"
   saveBufferData: false
   site: "Tucson Lab"
   telemetry:
